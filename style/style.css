@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.quicksand-font {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+}
+
+
+
+/* shared style  */
+.btn-primary{
+  font-size: 20px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 1);
+ background-color:rgba(254, 163, 1, 1);
+  border: none;
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+
+}
+
+.font-color1{
+  color: rgba(254, 163, 1, 1);
+  
+}
+.font-color2{
+ color: rgba(1, 172, 253, 1) ;
+
+}
+.font-color3{
+ color:  rgba(5, 212, 223, 1);
+
+}
+.font-color4{
+  color: rgba(93, 88, 239, 1);
+
+}
+
+
+
+
+
+
+
+/* nav style starts from here  */
+.nav{
+  display: flex;
+  max-width: 1160px;
+  max-height: 62px;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.nav-ul{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  
+}
+
+
+
+
+#school{
+  font-size: 27px;
+  font-weight: bold;
+  padding-bottom: 30px;
+ 
+}
+
+/* banner starts from here  */
+.banner{
+  
+}
+
+ 
