@@ -217,11 +217,35 @@
   height: 50px;
   width: 180px;
   border-radius: 10px;
-  margin
+  
+}
+
+footer{
+  background-color: rgba(1, 172, 253, 1);
+  max-height: 519px;
+
+}
+
+.footer-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin:0 auto;
+  color: white;
+  
+}
+
+.white{
+  color: white;
+}
+
+.ul-list{
+  list-style: none;
+}
+.ul-list>img{
+  text-decoration: none;
 }
 
 
- 
 
 
 
